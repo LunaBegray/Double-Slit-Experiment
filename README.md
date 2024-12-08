@@ -1,8 +1,8 @@
-# **Quantum Wave Explorer**  
+# **Quantum Physics Double Slit Experiment**  
 _An Interactive Double-Slit Experiment Simulator with Heatmap Visualizations_  
 
 ## **Overview**  
-**Quantum Wave Explorer** is an interactive physics simulator that brings the famous **Double-Slit Experiment** to life. With this program, you can explore the duality of quantum particles behaving as **waves** or **particles**, depending on the presence of a detector. The experiment is visualized through an intuitive **heatmap display**, making the mysterious world of quantum mechanics accessible and engaging.
+**Quantum Physics Double Slit Experiment** is an interactive physics simulator that brings the famous **Double-Slit Experiment** to life. With this program, you can explore the duality of quantum particles behaving as **waves** or **particles**, depending on the presence of a detector. The experiment is visualized through an intuitive **heatmap display**, making the mysterious world of quantum mechanics accessible and engaging.
 
 ---
 
@@ -73,7 +73,7 @@ A broad wave interference pattern emerges, visualized as bright and dark regions
 ---
 
 ## **Inspirations**  
-This program is inspired by the famous **Quantum Double-Slit Experiment**, which revealed the wave-particle duality of quantum particles. It’s designed for educational purposes, sparking curiosity about quantum mechanics and visualization techniques.
+This program is inspired by the famous **Quantum Physics Double Slit Experiment**, which revealed the wave-particle duality of quantum particles. It’s designed for educational purposes, sparking curiosity about quantum mechanics and visualization techniques.
 
 ---
 
